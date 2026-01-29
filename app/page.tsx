@@ -1,4 +1,4 @@
-const WAITLIST_URL = "https://forms.gle/PASTE_YOUR_FORM_ID";
+const WAITLIST_URL = "https://forms.gle/sEM9ij2CmKxKw7Js8";
 
 export default function Home() {
   return (
